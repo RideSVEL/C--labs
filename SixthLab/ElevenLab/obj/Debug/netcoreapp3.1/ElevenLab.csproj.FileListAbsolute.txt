@@ -1,0 +1,13 @@
+D:\C#\SixthLab\ElevenLab\bin\Debug\netcoreapp3.1\ElevenLab.exe
+D:\C#\SixthLab\ElevenLab\bin\Debug\netcoreapp3.1\ElevenLab.deps.json
+D:\C#\SixthLab\ElevenLab\bin\Debug\netcoreapp3.1\ElevenLab.runtimeconfig.json
+D:\C#\SixthLab\ElevenLab\bin\Debug\netcoreapp3.1\ElevenLab.runtimeconfig.dev.json
+D:\C#\SixthLab\ElevenLab\bin\Debug\netcoreapp3.1\ElevenLab.dll
+D:\C#\SixthLab\ElevenLab\bin\Debug\netcoreapp3.1\ElevenLab.pdb
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.csprojAssemblyReference.cache
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.AssemblyInfoInputs.cache
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.AssemblyInfo.cs
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.csproj.CoreCompileInputs.cache
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.dll
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.pdb
+D:\C#\SixthLab\ElevenLab\obj\Debug\netcoreapp3.1\ElevenLab.genruntimeconfig.cache

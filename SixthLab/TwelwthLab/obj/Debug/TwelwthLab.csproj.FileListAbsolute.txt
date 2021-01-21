@@ -1,0 +1,12 @@
+D:\C#\SixthLab\TwelwthLab\bin\Debug\TwelwthLab.exe.config
+D:\C#\SixthLab\TwelwthLab\bin\Debug\TwelwthLab.exe
+D:\C#\SixthLab\TwelwthLab\bin\Debug\TwelwthLab.pdb
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.Properties.Resources.resources
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.csproj.GenerateResource.cache
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.exe
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.pdb
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.csprojAssemblyReference.cache
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.csproj.CoreCompileInputs.cache
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.Form1.resources
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.Form2.resources
+D:\C#\SixthLab\TwelwthLab\obj\Debug\TwelwthLab.FormWork.resources

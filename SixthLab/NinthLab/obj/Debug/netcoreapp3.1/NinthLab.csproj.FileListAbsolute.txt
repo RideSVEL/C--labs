@@ -1,0 +1,13 @@
+D:\C#\SixthLab\NinthLab\bin\Debug\netcoreapp3.1\NinthLab.exe
+D:\C#\SixthLab\NinthLab\bin\Debug\netcoreapp3.1\NinthLab.deps.json
+D:\C#\SixthLab\NinthLab\bin\Debug\netcoreapp3.1\NinthLab.runtimeconfig.json
+D:\C#\SixthLab\NinthLab\bin\Debug\netcoreapp3.1\NinthLab.runtimeconfig.dev.json
+D:\C#\SixthLab\NinthLab\bin\Debug\netcoreapp3.1\NinthLab.dll
+D:\C#\SixthLab\NinthLab\bin\Debug\netcoreapp3.1\NinthLab.pdb
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.csprojAssemblyReference.cache
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.AssemblyInfoInputs.cache
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.AssemblyInfo.cs
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.csproj.CoreCompileInputs.cache
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.dll
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.pdb
+D:\C#\SixthLab\NinthLab\obj\Debug\netcoreapp3.1\NinthLab.genruntimeconfig.cache

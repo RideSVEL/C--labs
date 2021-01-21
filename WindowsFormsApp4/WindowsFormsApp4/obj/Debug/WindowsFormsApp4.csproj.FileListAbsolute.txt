@@ -1,0 +1,4 @@
+D:\C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApplication317.Form1.resources
+D:\C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\C#\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache

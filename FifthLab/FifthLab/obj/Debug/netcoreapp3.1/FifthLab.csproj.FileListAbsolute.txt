@@ -1,0 +1,13 @@
+D:\C#\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.exe
+D:\C#\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.deps.json
+D:\C#\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.runtimeconfig.json
+D:\C#\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.runtimeconfig.dev.json
+D:\C#\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.dll
+D:\C#\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.pdb
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.csprojAssemblyReference.cache
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.AssemblyInfoInputs.cache
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.AssemblyInfo.cs
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.csproj.CoreCompileInputs.cache
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.dll
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.pdb
+D:\C#\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.genruntimeconfig.cache

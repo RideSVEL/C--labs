@@ -1,0 +1,13 @@
+D:\C#\ThirdLabPart2\ThirdLabPart2\bin\Debug\netcoreapp3.1\ThirdLabPart2.exe
+D:\C#\ThirdLabPart2\ThirdLabPart2\bin\Debug\netcoreapp3.1\ThirdLabPart2.deps.json
+D:\C#\ThirdLabPart2\ThirdLabPart2\bin\Debug\netcoreapp3.1\ThirdLabPart2.runtimeconfig.json
+D:\C#\ThirdLabPart2\ThirdLabPart2\bin\Debug\netcoreapp3.1\ThirdLabPart2.runtimeconfig.dev.json
+D:\C#\ThirdLabPart2\ThirdLabPart2\bin\Debug\netcoreapp3.1\ThirdLabPart2.dll
+D:\C#\ThirdLabPart2\ThirdLabPart2\bin\Debug\netcoreapp3.1\ThirdLabPart2.pdb
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.csprojAssemblyReference.cache
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.AssemblyInfoInputs.cache
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.AssemblyInfo.cs
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.csproj.CoreCompileInputs.cache
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.dll
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.pdb
+D:\C#\ThirdLabPart2\ThirdLabPart2\obj\Debug\netcoreapp3.1\ThirdLabPart2.genruntimeconfig.cache

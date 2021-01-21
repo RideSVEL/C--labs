@@ -1,0 +1,13 @@
+D:\C#\LabFirst\LabFirst\bin\Debug\netcoreapp3.1\LabFirst.exe
+D:\C#\LabFirst\LabFirst\bin\Debug\netcoreapp3.1\LabFirst.deps.json
+D:\C#\LabFirst\LabFirst\bin\Debug\netcoreapp3.1\LabFirst.runtimeconfig.json
+D:\C#\LabFirst\LabFirst\bin\Debug\netcoreapp3.1\LabFirst.runtimeconfig.dev.json
+D:\C#\LabFirst\LabFirst\bin\Debug\netcoreapp3.1\LabFirst.dll
+D:\C#\LabFirst\LabFirst\bin\Debug\netcoreapp3.1\LabFirst.pdb
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.csprojAssemblyReference.cache
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.AssemblyInfoInputs.cache
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.AssemblyInfo.cs
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.csproj.CoreCompileInputs.cache
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.dll
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.pdb
+D:\C#\LabFirst\LabFirst\obj\Debug\netcoreapp3.1\LabFirst.genruntimeconfig.cache

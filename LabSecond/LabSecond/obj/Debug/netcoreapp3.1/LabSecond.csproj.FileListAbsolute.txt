@@ -1,0 +1,13 @@
+D:\C#\LabSecond\LabSecond\bin\Debug\netcoreapp3.1\LabSecond.exe
+D:\C#\LabSecond\LabSecond\bin\Debug\netcoreapp3.1\LabSecond.deps.json
+D:\C#\LabSecond\LabSecond\bin\Debug\netcoreapp3.1\LabSecond.runtimeconfig.json
+D:\C#\LabSecond\LabSecond\bin\Debug\netcoreapp3.1\LabSecond.runtimeconfig.dev.json
+D:\C#\LabSecond\LabSecond\bin\Debug\netcoreapp3.1\LabSecond.dll
+D:\C#\LabSecond\LabSecond\bin\Debug\netcoreapp3.1\LabSecond.pdb
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.csprojAssemblyReference.cache
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.AssemblyInfoInputs.cache
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.AssemblyInfo.cs
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.csproj.CoreCompileInputs.cache
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.dll
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.pdb
+D:\C#\LabSecond\LabSecond\obj\Debug\netcoreapp3.1\LabSecond.genruntimeconfig.cache

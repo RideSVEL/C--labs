@@ -1,0 +1,13 @@
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\bin\Debug\netcoreapp3.1\SecondLAbPart2.exe
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\bin\Debug\netcoreapp3.1\SecondLAbPart2.deps.json
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\bin\Debug\netcoreapp3.1\SecondLAbPart2.runtimeconfig.json
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\bin\Debug\netcoreapp3.1\SecondLAbPart2.runtimeconfig.dev.json
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\bin\Debug\netcoreapp3.1\SecondLAbPart2.dll
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\bin\Debug\netcoreapp3.1\SecondLAbPart2.pdb
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.csprojAssemblyReference.cache
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.AssemblyInfoInputs.cache
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.AssemblyInfo.cs
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.csproj.CoreCompileInputs.cache
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.dll
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.pdb
+D:\C#\LabSecond\SecondLAbPart2\SecondLAbPart2\obj\Debug\netcoreapp3.1\SecondLAbPart2.genruntimeconfig.cache

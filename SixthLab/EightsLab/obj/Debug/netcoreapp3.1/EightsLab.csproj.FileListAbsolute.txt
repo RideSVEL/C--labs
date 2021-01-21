@@ -1,0 +1,13 @@
+D:\C#\SixthLab\EightsLab\bin\Debug\netcoreapp3.1\EightsLab.exe
+D:\C#\SixthLab\EightsLab\bin\Debug\netcoreapp3.1\EightsLab.deps.json
+D:\C#\SixthLab\EightsLab\bin\Debug\netcoreapp3.1\EightsLab.runtimeconfig.json
+D:\C#\SixthLab\EightsLab\bin\Debug\netcoreapp3.1\EightsLab.runtimeconfig.dev.json
+D:\C#\SixthLab\EightsLab\bin\Debug\netcoreapp3.1\EightsLab.dll
+D:\C#\SixthLab\EightsLab\bin\Debug\netcoreapp3.1\EightsLab.pdb
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.csprojAssemblyReference.cache
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.AssemblyInfoInputs.cache
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.AssemblyInfo.cs
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.csproj.CoreCompileInputs.cache
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.dll
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.pdb
+D:\C#\SixthLab\EightsLab\obj\Debug\netcoreapp3.1\EightsLab.genruntimeconfig.cache
